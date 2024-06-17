@@ -12,7 +12,23 @@ I have hands-on experience in data analysis, machine learning, and data visualiz
 
 # Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![R](https://img.shields.io/badge/R-4.0-blue) ![Pandas](https://img.shields.io/badge/Pandas-1.2.4-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
 ## Skills and Technologies
 
@@ -21,12 +37,12 @@ I have hands-on experience in data analysis, machine learning, and data visualiz
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **Tools & Environments:** Snowflake, Databricks, GCP, Microsoft Azure (Beginner)
-- **Data Visualizations:** Tableau, PowerBi
+- **Data Visualizations Tools:** Tableau, PowerBI
 
 ## To reach out to Me
 
 - **Email:** [brandthn@live.com](mailto:brandthn@live.com)
-- **LinkedIn:** [Here]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/brandon-tchaka/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/brandon-tchaka/)
 
 ## Fun Facts
 
