@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 I recently graduated with a degree in MSc in Data Analytics & Artificial Intelligence from EDHEC Business School in Lille, France. 
 I have hands-on experience in data analysis, machine learning, and data visualization through various projects, this account serves as the window for my continuous releases and collaborations. I am actively seeking opportunities to apply my skills in a professional setting.
 
-# Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=postgresql&logoColor=white) 
