@@ -1,4 +1,4 @@
-# Hi Friend! 👋
+# Hi There! 👋
 
 I'm Tchaka, a passionate Data analyst and aspiring ML Engineer with a keen interest in everything aroung Machine Learning and Data Analytics. 
 Welcome to my GitHub profile!
@@ -42,9 +42,8 @@ I have hands-on experience in data analysis, machine learning, and data visualiz
 ## To reach out to Me
 
 - **Email:** [brandthn@live.com](mailto:brandthn@live.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/brandon-tchaka/)
+- **LinkedIn:** [brandthn](https://www.linkedin.com/in/brandon-tchaka/)
 
 ## Fun Facts
 
-- I love talking about Philosophy
-- 
+- I love talking about Philosophy & Entrepreneurship
