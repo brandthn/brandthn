@@ -3,8 +3,6 @@
 I'm Tchaka, a passionate Data analyst and aspiring ML Engineer with a keen interest in everything aroung Machine Learning and Data Analytics. 
 Welcome to my GitHub profile!
 
-![Profile Banner](URL to your banner image)
-
 ## About Me
 
 I recently graduated with a degree in MSc in Data Analytics & Artificial Intelligence from EDHEC Business School in Lille, France. 
