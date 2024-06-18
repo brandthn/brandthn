@@ -27,6 +27,9 @@ I have hands-on experience in data analysis, machine learning, and data visualiz
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=white)
+![PSPO I](https://img.shields.io/badge/PSPO%20I-5C2D91?style=for-the-badge&logo=scrum&logoColor=white)
+![SAFe Certified Agilist](https://img.shields.io/badge/SAFe%20Certified%20Agilist-0047AB?style=for-the-badge&logo=safe&logoColor=white)
+
 
 ## Skills and Technologies
 
@@ -36,6 +39,7 @@ I have hands-on experience in data analysis, machine learning, and data visualiz
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 - **Tools & Environments:** Snowflake, Databricks, GCP, Microsoft Azure (Beginner)
 - **Data Visualizations Tools:** Tableau, PowerBI
+- **Management Philosophy & Product Development Frameworks:** Lean Management, Professional Scrum Product Owner I and SAFe® Certified Agilist
 
 ## To reach out to Me
 
