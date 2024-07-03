@@ -48,4 +48,4 @@ I have hands-on experience in data analysis, machine learning, and data visualiz
 
 ## Fun Facts
 
-- I love talking about Philosophy & Entrepreneurship
+- I love reading about Philosophy & Entrepreneurship
