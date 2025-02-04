@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-I'm Tchaka, a passionate Data analyst and aspiring ML Engineer with a keen interest in everything aroung Machine Learning and Data Analytics. 
+I'm Tchaka, a passionate ML Engineer with a keen interest in everything aroung Machine Learning, and The Tech / Entrepreneurial space. 
 Welcome to my GitHub profile!
 
 ## About Me
