@@ -1,12 +1,12 @@
 # Hi There! 👋
 
-I'm Tchaka, a passionate ML Engineer with a keen interest in everything aroung Machine Learning, and The Tech / Entrepreneurial space. 
+I'm Tchaka, a passionate ML Engineer / Data Scientist with a keen interest in everything aroung Machine Learning, and The Tech / Entrepreneurial space. 
 Welcome to my GitHub profile!
 
 ## About Me
 
-I recently graduated with a degree in MSc in Data Analytics & Artificial Intelligence from EDHEC Business School in Lille, France. 
-I have hands-on experience in data analysis, machine learning, and data visualization through various projects. I am actively seeking opportunities to apply my skills in a professional setting.
+Graduated with a degree in MSc in Data Analytics & Artificial Intelligence from EDHEC in Lille, France, then went into Big Data & AI throught another Master degree at École Supérieure de Génie Informatique in Paris.
+Open to opportunities!
 
 ## Languages & Tools
 
